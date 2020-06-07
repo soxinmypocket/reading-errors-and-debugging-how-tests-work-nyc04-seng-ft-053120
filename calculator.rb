@@ -1,7 +1,7 @@
 # Add your variables here
-first_number = "Hello World!"
+first_number = 
 
-second_number = 2
+second_number = 
 
 sum = first_number + second_number
 
